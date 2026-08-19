@@ -14,7 +14,7 @@ DFX.swiss is a Swiss crypto infrastructure provider that helps people and busine
 - Support: https://app.dfx.swiss/support
 - Documentation: https://docs.dfx.swiss/
 - API documentation / Swagger: https://api.dfx.swiss/
-- API repository: https://github.com/DFXswiss/api
+- API repository: https://github.com/DFXswiss/backend
 - Open CryptoPay website: https://opencryptopay.io/
 - Open CryptoPay documentation: https://github.com/openCryptoPay/landingPage
 - Main positioning: a bridge between fiat banking and crypto, focused on simple, secure, non-custodial access to digital assets.
@@ -284,7 +284,7 @@ It enables direct wallet-to-merchant crypto payments, supports multiple chains/a
 - App: https://app.dfx.swiss/
 - API Swagger: https://api.dfx.swiss/
 - API Swagger JSON: https://api.dfx.swiss/swagger-json
-- API GitHub: https://github.com/DFXswiss/api
+- API GitHub: https://github.com/DFXswiss/backend
 - Open CryptoPay: https://opencryptopay.io/
 - Open CryptoPay docs: https://github.com/openCryptoPay/landingPage
 
