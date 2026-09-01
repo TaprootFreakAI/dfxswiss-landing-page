@@ -116,7 +116,7 @@
   "faq.q6": "What KYC, SoF and AML documentation is required and when?",
   "faq.a6": "KYC verification is mandatory for all transactions from CHF 1,000. The requirements for anti-money laundering (AML) and source of funds (SoF) are dynamic and depend on factors such as customer type, region and payment method.",
   "faq.q7": "Why is my purchase not sent to my wallet address?",
-  "faq.a7": "Before we send crypto to a wallet address, we check whether we are allowed to do so. Sometimes we cannot pay out to a particular address. In that case you get the money back to the bank account you sent it from — not as crypto. Support cannot release the payout to that address. For legal reasons we cannot always tell you the exact reason. For the next purchase you will then need a different wallet address.",
+  "faq.a7": "Before we send crypto to a wallet address, we screen the address with Scorechain. We do not execute payments to addresses that Scorechain links to sanctioned entities. In that case you get the money back to the bank account you sent it from — not as crypto. Support cannot change that. For the next purchase you need a wallet address without such a link.",
   "footer.resources": "Resources",
   "footer.brand_kit": "Brand Kit",
   "footer.github": "Github",

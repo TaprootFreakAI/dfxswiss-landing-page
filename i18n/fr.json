@@ -116,7 +116,7 @@
   "faq.q6": "Quels justificatifs KYC, SoF et AML sont nécessaires et quand ?",
   "faq.a6": "La vérification KYC est obligatoire pour toutes les transactions à partir de 1 000 CHF. Les exigences en matière de lutte contre le blanchiment d'argent (AML) et de preuve de l'origine des fonds (SoF) sont dynamiques et dépendent de facteurs tels que le type de client, la région et le mode de paiement.",
   "faq.q7": "Pourquoi mon achat n'est-il pas envoyé à mon adresse de portefeuille ?",
-  "faq.a7": "Avant d'envoyer des crypto-actifs à une adresse de portefeuille, nous vérifions si nous en avons le droit. Parfois, nous ne pouvons pas verser vers une adresse donnée. Dans ce cas, l'argent est renvoyé sur le compte bancaire depuis lequel vous avez viré — pas en crypto. Le support ne peut pas débloquer le versement vers cette adresse. Pour des raisons légales, nous ne pouvons pas toujours indiquer le motif exact. Pour le prochain achat, vous aurez alors besoin d'une autre adresse de portefeuille.",
+  "faq.a7": "Avant d'envoyer des crypto-actifs à une adresse de portefeuille, nous contrôlons l'adresse avec Scorechain. Nous n'exécutons pas les paiements vers des adresses que Scorechain relie à des entités sanctionnées. Dans ce cas, l'argent est renvoyé sur le compte bancaire depuis lequel vous avez viré — pas en crypto. Le support ne peut pas changer cela. Pour le prochain achat, vous avez besoin d'une adresse de portefeuille sans un tel lien.",
   "footer.resources": "Ressources",
   "footer.brand_kit": "Brand Kit",
   "footer.github": "Github",

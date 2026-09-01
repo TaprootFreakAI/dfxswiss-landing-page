@@ -123,7 +123,7 @@
         "Accepted payment methods",
         "Supported fiat currencies",
         "KYC, SoF and AML requirements",
-        "When a purchase cannot be paid out to a wallet address",
+        "Scorechain screening and blocked payouts to sanctioned entities",
         "Referral onboarding",
         "Referral code and referral link",
         "Personal IBAN generation",

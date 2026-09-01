@@ -116,7 +116,7 @@
   "faq.q6": "Quali documenti KYC, SoF e AML sono necessari e quando?",
   "faq.a6": "La verifica KYC è obbligatoria per tutte le transazioni a partire da 1.000 CHF. I requisiti in materia di antiriciclaggio (AML) e di prova dell'origine dei fondi (SoF) sono dinamici e dipendono da fattori quali il tipo di cliente, la regione e il metodo di pagamento.",
   "faq.q7": "Perché il mio acquisto non viene inviato al mio indirizzo di portafoglio?",
-  "faq.a7": "Prima di inviare crypto a un indirizzo di portafoglio, verifichiamo se ci è consentito. A volte non possiamo pagare un determinato indirizzo. In quel caso ricevi il denaro sul conto bancario da cui hai bonificato — non in crypto. Il supporto non può sbloccare il pagamento verso questo indirizzo. Per motivi legali non possiamo sempre indicare il motivo esatto. Per il prossimo acquisto ti servirà allora un altro indirizzo di portafoglio.",
+  "faq.a7": "Prima di inviare crypto a un indirizzo di portafoglio, controlliamo l'indirizzo con Scorechain. Non eseguiamo pagamenti verso indirizzi che Scorechain collega a entità sanzionate. In quel caso ricevi il denaro sul conto bancario da cui hai bonificato — non in crypto. Il supporto non può cambiarlo. Per il prossimo acquisto ti serve un indirizzo di portafoglio senza un tale collegamento.",
   "footer.resources": "Risorse",
   "footer.brand_kit": "Brand Kit",
   "footer.github": "Github",
