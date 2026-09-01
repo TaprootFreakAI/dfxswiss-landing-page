@@ -115,6 +115,8 @@
   "faq.a5": "Accettiamo CHF ed EUR. Per transazioni superiori a 50.000 CHF, vengono accettate anche valute alternative previo accordo. In questo caso, contatta semplicemente il nostro <a href=\"https://app.dfx.swiss/support\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"faq_link\">Support.</a>",
   "faq.q6": "Quali documenti KYC, SoF e AML sono necessari e quando?",
   "faq.a6": "La verifica KYC è obbligatoria per tutte le transazioni a partire da 1.000 CHF. I requisiti in materia di antiriciclaggio (AML) e di prova dell'origine dei fondi (SoF) sono dinamici e dipendono da fattori quali il tipo di cliente, la regione e il metodo di pagamento.",
+  "faq.q7": "Perché il mio acquisto non viene inviato al mio indirizzo di portafoglio?",
+  "faq.a7": "Prima di inviare crypto a un indirizzo di portafoglio, verifichiamo se ci è consentito. A volte non possiamo pagare un determinato indirizzo. In quel caso ricevi il denaro sul conto bancario da cui hai bonificato — non in crypto. Il supporto non può sbloccare il pagamento verso questo indirizzo. Per motivi legali non possiamo sempre indicare il motivo esatto. Per il prossimo acquisto ti servirà allora un altro indirizzo di portafoglio.",
   "footer.resources": "Risorse",
   "footer.brand_kit": "Brand Kit",
   "footer.github": "Github",

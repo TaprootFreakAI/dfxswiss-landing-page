@@ -258,7 +258,10 @@ Q: Is DFX an exchange?
 A: DFX is a Swiss-regulated on-/off-ramp, not a trading exchange. There is no DFX-hosted account holding user balances. Each transaction settles directly between the user's bank and the user's self-custody wallet.
 
 Q: Where do my coins go after I buy?
-A: To the wallet address you specify at the time of the trade — your own software, hardware, or WalletConnect wallet. DFX never custodies the coins.
+A: To the wallet address you specify at the time of the trade — your own software, hardware, or WalletConnect wallet. DFX never custodies the coins. In some cases DFX cannot pay out to a particular address; the money is then returned to the originating bank account, not as crypto. Support cannot override that decision, and DFX cannot always state the exact reason.
+
+Q: Why is my purchase not sent to my wallet address?
+A: Before sending crypto to a wallet address, DFX checks whether it is allowed to do so. If it cannot pay out to that address, the customer receives the money back to the bank account they sent it from — not as crypto. Support cannot release the payout to that address. For legal reasons DFX cannot always tell the exact reason. A later purchase then needs a different wallet address.
 
 Q: Is DFX available outside Switzerland?
 A: Yes. DFX serves customers in Switzerland, Germany, Austria, and Liechtenstein primarily, with broader reach via partner integrations. Some product features (e.g. CHF rails) are Switzerland-specific.

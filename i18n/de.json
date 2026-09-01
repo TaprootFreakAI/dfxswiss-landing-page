@@ -115,6 +115,8 @@
   "faq.a5": "Wir akzeptieren CHF und EUR. Bei Transaktionen, die 50'000,- CHF überschreiten, werden nach Absprache auch alternative Währungen akzeptiert. Melde dich in diesem Fall einfach bei unseren <a href=\"https://app.dfx.swiss/support\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"faq_link\">Support.</a>",
   "faq.q6": "Welche KYC-, SoF- und AML-Nachweise werden benötigt und wann?",
   "faq.a6": "Für alle Transaktionen ab CHF 1'000 ist eine KYC-Verifizierung zwingend erforderlich. Die Anforderungen im Bereich Geldwäschereiprävention (AML) sowie zum Herkunftsnachweis der Mittel (SoF) sind dynamisch und richten sich nach Faktoren wie Kundentyp, Region und Zahlungsart.",
+  "faq.q7": "Warum wird mein Kauf nicht auf meine Wallet-Adresse ausgezahlt?",
+  "faq.a7": "Bevor wir Krypto an eine Wallet-Adresse senden, prüfen wir, ob wir das dürfen. Manchmal können wir an eine bestimmte Adresse nicht auszahlen. Dann bekommst du das Geld auf das Bankkonto zurück, von dem du überwiesen hast — nicht als Krypto. Der Support kann die Auszahlung auf diese Adresse nicht freigeben. Den genauen Grund dürfen wir aus rechtlichen Gründen nicht immer sagen. Für den nächsten Kauf brauchst du dann eine andere Wallet-Adresse.",
   "footer.resources": "Ressourcen",
   "footer.brand_kit": "Brand Kit",
   "footer.github": "Github",

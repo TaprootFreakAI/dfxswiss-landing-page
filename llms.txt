@@ -68,6 +68,7 @@ DFX.swiss provides crypto financial infrastructure with a self-custody-first app
 - For bank transactions and especially selling crypto to fiat, DFX needs personal or business data such as name and address; legal entities require organization data.
 - If a user exceeds their limit and does not complete KYC, DFX may return the transaction after a waiting period described in the FAQ.
 - DFX may require additional checks for source of funds, origin of assets, unusual behavior, simultaneous buy/sell behavior, or regulatory reasons.
+- DFX may refuse to send crypto to a particular wallet address. In that case the money is returned to the originating bank account, not as crypto. Support cannot override this, and DFX cannot always state the exact reason. A later purchase then needs a different wallet address.
 
 ### 5. BTC Taro App
 - Self-custody Bitcoin wallet in the DFX ecosystem.
